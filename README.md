@@ -1,8 +1,13 @@
-# homework 9
-![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
+# Professional README Generator - homework 9
 
 ## Description
-node readme generator cli
+Node cli readme generator
+
+## Screenshot
+![screen shot](./assets/images/screenshot.png)
+
+## Video Walkthrough
+[video](https://youtu.be/TkdjWBhXukk)
 
 ## Table of contents
 - [Installation instructions](#Installation-instructions)
@@ -20,7 +25,3 @@ Reach out with additional questions:
 
 [https://github.com/erickmeline](https://github.com/erickmeline) - [erickmeline@gmail.com](mailto://erickmeline@gmail.com)
 
-## License
-Licensed under Apache 2.0 License, (the "License");
-You may obtain a copy of the License at:
-https://opensource.org/licenses/Apache-2.0
