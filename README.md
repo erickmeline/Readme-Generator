@@ -17,7 +17,7 @@ Node cli readme generator
 ## Installation instructions
 npm install
 
-## Installation instructions
+## Usage Information
 node index.js
 
 ## Questions
